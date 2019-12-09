@@ -1,0 +1,2 @@
+# mainnet.btspp.io
+mainnet
